@@ -2,12 +2,6 @@
 #include <math.h>
 #define PI 3.141592
 
-double get_x1(double x2, double x3)
-{
-	return (10.0 - x2 - x3)/5;
-}
-
-
 //y = 2x^2 + 3x
 //y' = 4x + 3
 
